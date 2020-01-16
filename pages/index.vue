@@ -187,7 +187,7 @@
 
     <div class="iOS fixed position-0" v-if="iOS">
       <div class="flex-column wh-100 bg-white">
-        <div class="p-24 hr-bot">
+        <div class="p-16-24 hr-bot">
           <button class="primary w-100" @click="iOS = false">Fixed Close Button</button>
         </div>
         <div class="flex-grow p-24">
@@ -206,8 +206,10 @@
             eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
             in culpa qui officia deserunt
             mollit anim id est laborum.</p>
+
+          <h5>Scroll Me</h5>
         </div>
-        <div class="p-24 hr-top">
+        <div class="p-16-24 hr-top">
           <button class="primary w-100" @click="iOS = false">Fixed Close Button</button>
         </div>
       </div>
