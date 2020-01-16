@@ -1,5 +1,5 @@
-const title = 'nuxt-app'
-const description = 'Nuxt app template project with my customisation.'
+const title = 'Modal Implementation Problems'
+const description = 'Micro site to show possible implementation problem with modal dialog.'
 const image = ''
 
 export default {

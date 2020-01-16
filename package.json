@@ -2,9 +2,9 @@
   "engines": {
     "node": "12.x"
   },
-  "name": "nuxt-app",
+  "name": "medium-modal-article",
   "version": "1.0.0",
-  "description": "Nuxt app template project with my customisation.",
+  "description": "Micro site to show possible implementation problem with modal dialog.",
   "author": "Fuxing Loh",
   "private": true,
   "scripts": {
